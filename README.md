@@ -16,7 +16,7 @@ Website ini menggunakan struktur HTML berikut:
 
 ## Desain CSS
 
-Desain CSS untuk website saya mencakup:
+Desain CSS untuk website kami mencakup:
 1. **Font**: Menggunakan font 'Open Sans' dan 'Great Vibes' untuk menciptakan kontras antara teks biasa dan dekoratif.
 2. **Warna Latar**: Memilih warna latar belakang lembut (#f8f9fa) dan warna gelap untuk elemen navbar dan header.
 3. **Responsif**: Menerapkan desain responsif dengan penggunaan flexbox agar tampilan baik di desktop dan mobile.
@@ -25,11 +25,13 @@ Desain CSS untuk website saya mencakup:
 
 ## Tampilan Proyek
 
-Saya mengundang Anda untuk melihat tampilan dari website di . Desain yang responsif dan navigasi yang mudah diharapkan dapat memberikan pengalaman yang menyenangkan bagi pengunjung.
+Kami mengundang Anda untuk melihat tampilan dari website kami di [sini](https://savinkaa.github.io/WebOnlineStore/). Desain yang responsif dan navigasi yang mudah diharapkan dapat memberikan pengalaman yang menyenangkan bagi pengunjung.
 
 ## Credits
 
-Website ini dibuat oleh:
-Kukuh Adji Pramuktilaksono, Mahasiswa Sarjana Terapan Manajemen Informatika, Universitas Negeri Surabaya
+Website ini dibuat oleh tim kami:
+- Savinka Krizanantha J.A
+- Fathir Rahma Dhani
+- Kukuh Adji Pramuktilaksono
 
-Jika ada pertanyaan, Anda dapat menghubungi saya melalui email atau platform komunikasi lainnya yang telah disediakan.
+Jika ada pertanyaan, Anda dapat menghubungi kami melalui email atau platform komunikasi lainnya yang telah disediakan.
